@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* globals.css */
+.clerk-sign-in {
+  background-color: #f0f0f0;
+  border-radius: 8px;
+}
+
+.clerk-sign-in-button {
+  background-color: #0070f3;
+  color: white;
+}
